@@ -11,10 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S.E. in Electrical Engineering, Arizona State University, 2020
+* B.S. in Computational Mathematical Sciences, Arizona State University, 2020
+* M.S. in Electrical Engineering, University of Michigan, 2022 (expected)
+* Ph.D in Electrical Engineering, University of Michigan, 2025 (expected)
 
+{% comment %} 
 Work experience
 ======
 * Summer 2015: Research Assistant
@@ -57,3 +59,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+{% endcomment %}

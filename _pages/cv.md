@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+See my CV [here](../files/NewtonRachel_Resume_April2022.pdf).
+
+{% comment %} 
 Education
 ======
 * B.S.E. in Electrical Engineering, Arizona State University, 2020
@@ -16,7 +19,7 @@ Education
 * M.S. in Electrical Engineering, University of Michigan, 2022 (expected)
 * Ph.D in Electrical Engineering, University of Michigan, 2025 (expected)
 
-{% comment %} 
+
 Work experience
 ======
 * Summer 2015: Research Assistant

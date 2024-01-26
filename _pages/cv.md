@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-See my CV [here](../files/NewtonCV_Nov2022.pdf).
+See my CV [here](../files/Resume_Current.pdf) (last updated Jan 2024).
 
 {% comment %} 
 Education

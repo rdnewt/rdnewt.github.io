@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-12-19-optofPODforLQR
 excerpt: 'This paper is a first step towards theoretical results on the optimality of POD for data-driven control.'
 date: 2023-12-19
-venue: IEEE Control Systems Letters'
+venue: 'IEEE Control Systems Letters'
 paperurl: 'https://ieeexplore.ieee.org/document/10365496'
 citation: 'R. Newton, Z. Du, P. Seiler and L. Balzano,  &quot;Optimality of POD for Data-Driven LQR With Low-Rank Structures,&quot; in <i>IEEE Control Systems Letters<\i>, vol. 8, pp. 85-90, 2024, doi: 10.1109/LCSYS.2023.3344147.'
 ---
